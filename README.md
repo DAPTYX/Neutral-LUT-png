@@ -11,7 +11,7 @@ With 8 (24) bit depth and even with 16 (48) bit depth.
 [52x52x52 8bit](PerfectNeutral/52-8bit.png?raw=true) | 
 [52x52x52 16bit](PerfectNeutral/52-16bit.png?raw=true) | 
 [86x86x86 8bit](PerfectNeutral/86-8bit.png?raw=true) | 
-[86x86x86 16bit](PerfectNeutral/86-16bit.png?raw=true) | 
+[86x86x86 16bit](PerfectNeutral/86-16bit.png?raw=true)
 
 
 
