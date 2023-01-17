@@ -4,14 +4,14 @@ Perfect Neutral LUTs Collection
 Perfectly neutral, hand-made, sexy and... neutral! For you to take!
 With 8 (24) bit depth and even with 16 (48) bit depth.
 
-[16x16x16 8bit](PerfectNeutral/16-8bit.png?raw=true)
-[16x16x16 16bit](PerfectNeutral/16-16bit.png?raw=true)
-[18x18x18 8bit](PerfectNeutral/18-8bit.png?raw=true)
-[18x18x18 16bit](PerfectNeutral/18-16bit.png?raw=true)
-[52x52x52 8bit](PerfectNeutral/52-8bit.png?raw=true)
-[52x52x52 16bit](PerfectNeutral/52-16bit.png?raw=true)
-[86x86x86 8bit](PerfectNeutral/86-8bit.png?raw=true)
-[86x86x86 16bit](PerfectNeutral/86-16bit.png?raw=true)
+[16x16x16 8bit](PerfectNeutral/16-8bit.png?raw=true) | 
+[16x16x16 16bit](PerfectNeutral/16-16bit.png?raw=true) | 
+[18x18x18 8bit](PerfectNeutral/18-8bit.png?raw=true) | 
+[18x18x18 16bit](PerfectNeutral/18-16bit.png?raw=true) | 
+[52x52x52 8bit](PerfectNeutral/52-8bit.png?raw=true) | 
+[52x52x52 16bit](PerfectNeutral/52-16bit.png?raw=true) | 
+[86x86x86 8bit](PerfectNeutral/86-8bit.png?raw=true) | 
+[86x86x86 16bit](PerfectNeutral/86-16bit.png?raw=true) | 
 
 
 
